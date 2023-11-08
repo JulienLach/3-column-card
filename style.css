@@ -1,0 +1,31 @@
+/* Sélecteur globaux */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --orange: hsl(31, 77%, 52%);
+    --bleu: hsl(184, 100%, 22%);
+    --vert: hsl(179, 100%, 13%);
+}
+
+body {
+    font-size: 15px;
+    /* font-family: 'Lexend Deca', sans-serif; */
+    /* font-family: 'Big Shoulders Display', sans-serif; */
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+
+.card-content {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.card-btn {
+    font-family: 'Lexend Deca', sans-serif;
+}
