@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    max-width: 75%;
+    max-width: 1000px;
     margin: 200px auto;
     /* border: 3px blue solid; */
 
@@ -105,6 +105,7 @@ img {
         display: flex;
         flex-wrap: wrap;
         margin: 200px auto;
+        width: 85%;
     }
 
     .card {
